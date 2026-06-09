@@ -2,7 +2,7 @@
 
 A Raspberry Pi 4B-controlled automated calibration platform for electrolytic tilt sensors and MEMS accelerometers. Supports simultaneous calibration of up to 30 wireless devices via Zigbee, with full remote control via a Flask REST API and automated sigmoid-based curve fitting.
 
-![Alt text](https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fassets.digitalocean.com%2Farticles%2Falligator%2Fboo.svg&token=3b393c4e6c647039515f968de472a17b4ff48f2082204b56512e8c13d1cd5e04 "a title")
+![Resensys Tiltorama](IMG_7605.png "Tiltorama")
 ---
 
 ## Overview
